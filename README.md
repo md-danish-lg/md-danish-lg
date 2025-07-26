@@ -10,7 +10,7 @@
 ### 🚀 Tech Stack & Tools
 
 * **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS
-* **Backend (in progress):** Node.js (soon Go / Rust)
+* **Backend (in progress):** Python
 * **Languages:** JavaScript, C++
 * **Tools:** Git, GitHub, Vite, VS Code
 
@@ -20,7 +20,7 @@
 
 * Master **full-stack web development**
 * Learn **C++** deeply to improve logic and DS/Algo
-* Explore **backend engineering** with Go & Rust
+* Explore **backend engineering** with Python
 * Build projects that solve real problems
 ---
 
