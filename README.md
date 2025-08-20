@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Danish
 
-💻 Aspiring Software Engineer | Frontend Developer | Learning C++ & Backend
+💻 Aspiring Software Engineer | Frontend Developer | Learning C++ | Backend & AI
 📍 Building real-world projects & sharpening my problem-solving skills
 
 ---
