@@ -20,7 +20,7 @@
 
 * Master **full-stack web development**
 * Learn **C++** deeply to improve logic and DS/Algo
-* Explore **backend engineering** with Python
+* Explore **backend engineering / AI ** with Python
 * Build projects that solve real problems
 ---
 
