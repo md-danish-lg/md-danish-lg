@@ -9,7 +9,9 @@
 
 ### 🚀 Tech Stack & Tools
 
-* **Frontend:** HTML, CSS, JavaScript
+* **Frontend:** HTML, CSS, JavaScript'
+* **Scraping:** Python, BeautifulSoup, requests'
+* **Data Analysis/Manipulation:** Pandas
 * **Languages:** JavaScript, C++, Python, Java
 * **Tools:** Git, GitHub, VS Code, IntelliJ Idea
 
