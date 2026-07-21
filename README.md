@@ -31,6 +31,11 @@ public class Danish {
 
 ### `> ls projects/`
 
+**[🚀 Recall - Ai Workspace (Currently Working on)](https://github.com/md-danish-lg/recall)**
+> AI-powered personal knowledge workspace. Project combining Spring Boot, FastAPI, React, and ChromaDB into a production-style full-stack app.
+>
+> `Java` `Spring Boot` `Python` `FastAPI` `PostgreSQL` `ChromaDB` `Docker` `JUnit 5` `React` `TailwindCSS`
+> > 
 **[🔧 Vehicle Service Management System](https://github.com/md-danish-lg/Vehicle-Service-Management-System)**
 > Polyglot microservice system for automotive repair shops. Spring Boot handles the business logic, Python FastAPI handles AI. WorkOrder state machine, RAG-based repair history summarization via ChromaDB + Groq, 4-service Docker Compose stack.
 >
